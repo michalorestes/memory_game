@@ -1,0 +1,9 @@
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Server\MG_Server\bin\Debug\MG_Server.exe.config
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Server\MG_Server\bin\Debug\MG_Server.exe
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Server\MG_Server\bin\Debug\MG_Server.pdb
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Server\MG_Server\obj\Debug\MG_Server.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Server\MG_Server\obj\Debug\MG_Server.Properties.Resources.resources
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Server\MG_Server\obj\Debug\MG_Server.csproj.GenerateResource.Cache
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Server\MG_Server\obj\Debug\MG_Server.exe
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Server\MG_Server\obj\Debug\MG_Server.pdb
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Server\MG_Server\obj\Debug\MG_Server.Server.resources

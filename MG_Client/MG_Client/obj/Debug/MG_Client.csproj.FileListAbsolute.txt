@@ -1,0 +1,12 @@
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Client\MG_Client\bin\Debug\MG_Client.exe.config
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Client\MG_Client\bin\Debug\MG_Client.exe
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Client\MG_Client\bin\Debug\MG_Client.pdb
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Client\MG_Client\obj\Debug\MG_Client.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Client\MG_Client\obj\Debug\MG_Client.ConnectScreen.resources
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Client\MG_Client\obj\Debug\MG_Client.MainScreen.resources
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Client\MG_Client\obj\Debug\MG_Client.Properties.Resources.resources
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Client\MG_Client\obj\Debug\MG_Client.csproj.GenerateResource.Cache
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Client\MG_Client\obj\Debug\MG_Client.exe
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Client\MG_Client\obj\Debug\MG_Client.pdb
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Client\MG_Client\obj\Debug\MG_Client.GameScreen.resources
+C:\Users\Michal\Google Drive\Uni\Systems Programming\Coursework\OO\MG_Client\MG_Client\obj\Debug\MG_Client.Card.resources
